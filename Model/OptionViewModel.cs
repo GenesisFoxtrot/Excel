@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -8,15 +9,15 @@ namespace Models
 {
     public class OptionViewModel
     {
-        public String Name { get; set; }
+        public PropertyInfo Property { get; set; }
 
         public string ExcelName { get; set; }
 
         public int Column { get; set; }
 
-        public OptionViewModel(String name, string excelName)
+        public OptionViewModel(PropertyInfo property, string excelName)
         {
-            Name = name;
+            Property = property;
             ExcelName = excelName;
         }
     }

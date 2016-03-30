@@ -10,7 +10,7 @@ namespace Models
     {
         public OptionsViewModel(List<OptionViewModel> properties)
         {
-            Properties = properties.Select(x => new OptionViewModel(x.Name, x.ExcelName)).ToList();
+            Properties = properties.Select(x => new OptionViewModel(x.Property, x.ExcelName)).ToList();
         }
 
         public List<OptionViewModel> Properties; 
