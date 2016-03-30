@@ -16,6 +16,7 @@ namespace ConsoleApp
         {
             Reader reader = new Reader();
             var models = reader.Read<Model>(@"1.xlsx");
+            models.ForEach(x => Console.WriteLine(x.Name + "    " +x.Album2));
             Console.ReadLine();
         }
     }

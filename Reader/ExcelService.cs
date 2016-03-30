@@ -13,8 +13,14 @@ namespace ExcelReader2
         {
             List<OptionViewModel> options = new List<OptionViewModel>();
 
-            var props = typeof(T).GetProperties().ToList(); 
-            props.ForEach(p => options.Add(new OptionViewModel(p, p.Name)));
+            var props = typeof(T).GetProperties().ToList();
+
+
+            props.ForEach(p =>
+            {
+                var columName = (p.GetCustomAttributes(false).FirstOrDefault(x => x is ExcelColumnName) as ExcelColumnName)?.Name;
+                options.Add(new OptionViewModel(p, columName ?? p.Name));
+            });
             OptionsViewModel optionModel = new OptionsViewModel(options);
 
             return optionModel;

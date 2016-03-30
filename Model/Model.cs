@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ExcelReader2.Models;
 
 namespace Models
 {
@@ -10,6 +11,7 @@ namespace Models
     {
         public string Name { get; set; }
 
-        public string Album { get; set; }
+        [ExcelColumnName("Album")]
+        public string Album2 { get; set; }
     }
 }

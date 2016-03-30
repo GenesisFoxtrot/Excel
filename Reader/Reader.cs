@@ -15,7 +15,7 @@ namespace ExcelReader2
         public List<T> Read<T>(string filePath) where T : new()
         {
 
-            var result = new List<T>;
+            var result = new List<T>();
             ExcelService service = new ExcelService();
    
             OptionsViewModel optionModel = service.GetOptions<T>();

@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ExcelService.cs" />
+    <Compile Include="Models\ExcelColumnName.cs" />
     <Compile Include="Models\ModelViewModel.cs" />
     <Compile Include="Models\OptionsViewModel.cs" />
     <Compile Include="Models\OptionViewModel.cs" />
