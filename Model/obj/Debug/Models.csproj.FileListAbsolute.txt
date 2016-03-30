@@ -1,0 +1,4 @@
+c:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Model\bin\Debug\Model.dll
+c:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Model\bin\Debug\Model.pdb
+c:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Model\obj\Debug\Model.dll
+c:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Model\obj\Debug\Model.pdb

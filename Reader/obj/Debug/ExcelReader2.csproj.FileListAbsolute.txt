@@ -1,0 +1,15 @@
+C:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Reader\obj\Debug\ExcelReader2.csprojResolveAssemblyReference.cache
+C:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Reader\bin\Debug\ExcelReader2.dll
+C:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Reader\bin\Debug\ExcelReader2.pdb
+C:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Reader\bin\Debug\Model.dll
+C:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Reader\bin\Debug\Spire.Common.dll
+C:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Reader\bin\Debug\Spire.License.dll
+C:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Reader\bin\Debug\Spire.Pdf.dll
+C:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Reader\bin\Debug\Spire.XLS.dll
+C:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Reader\bin\Debug\Microsoft.mshtml.dll
+C:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Reader\bin\Debug\Model.pdb
+C:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Reader\bin\Debug\Spire.Common.xml
+C:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Reader\bin\Debug\Spire.Pdf.xml
+C:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Reader\bin\Debug\Spire.XLS.xml
+C:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Reader\obj\Debug\ExcelReader2.dll
+C:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Reader\obj\Debug\ExcelReader2.pdb
