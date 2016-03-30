@@ -31,10 +31,10 @@ namespace ExcelReader2
 
                         var c = sheet.Rows[0].Columns[1].Text;
 
-                        var properties = sheet.Range.Rows[0].Select(x => new { x.Text, x.Column }).ToList();
+                        var properties = sheet.Rows[0].Select(x => new { x.Text, Column = x.Column -1 }).ToList();
                         optionModel.Properties.ForEach(x => x.Column = properties.FirstOrDefault(y => y.Text == x.ExcelName).Column);
 
-                        var models = sheet.Rows.ToList().Select(row =>
+                        var models = sheet.Rows.Where(x => x.Row > 1).ToList().Select(row =>
                         {
                             var model = new ModelViewModel();
                             model.Row = row.Row;
@@ -42,7 +42,7 @@ namespace ExcelReader2
                             {
                                 var propery = new Property();
                                 propery.Option = option;
-                                propery.Value = row.Columns[option.Column - 1].Value;
+                                propery.Value = row.Columns[option.Column].Value;
                                 model.Properties.Add(propery);
                             });
                             return model;
