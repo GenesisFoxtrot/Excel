@@ -1,0 +1,12 @@
+c:\users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\ExcelReaderLinq\obj\Debug\ExcelReaderLinq.csprojResolveAssemblyReference.cache
+c:\users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\ExcelReaderLinq\bin\Debug\ExcelReaderLinq.dll
+c:\users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\ExcelReaderLinq\bin\Debug\ExcelReaderLinq.pdb
+c:\users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\ExcelReaderLinq\bin\Debug\LinqToExcel.dll
+c:\users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\ExcelReaderLinq\bin\Debug\Model.dll
+c:\users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\ExcelReaderLinq\bin\Debug\Remotion.Data.Linq.dll
+c:\users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\ExcelReaderLinq\bin\Debug\Remotion.dll
+c:\users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\ExcelReaderLinq\bin\Debug\Remotion.Interfaces.dll
+c:\users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\ExcelReaderLinq\bin\Debug\Model.pdb
+c:\users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\ExcelReaderLinq\bin\Debug\LinqToExcel.xml
+c:\users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\ExcelReaderLinq\obj\Debug\ExcelReaderLinq.dll
+c:\users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\ExcelReaderLinq\obj\Debug\ExcelReaderLinq.pdb

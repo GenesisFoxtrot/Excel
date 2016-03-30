@@ -1,0 +1,9 @@
+c:\users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\ExcellReader\bin\Debug\ExcellReader.dll
+c:\users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\ExcellReader\bin\Debug\ExcellReader.pdb
+c:\users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\ExcellReader\obj\Debug\ExcellReader.csprojResolveAssemblyReference.cache
+c:\users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\ExcellReader\obj\Debug\ExcellReader.dll
+c:\users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\ExcellReader\obj\Debug\ExcellReader.pdb
+c:\users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\ExcellReader\bin\Debug\Model.dll
+c:\users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\ExcellReader\bin\Debug\Model.pdb
+c:\users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\ExcellReader\bin\Debug\SpreadsheetLight.dll
+c:\users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\ExcellReader\bin\Debug\SpreadsheetLight.xml
