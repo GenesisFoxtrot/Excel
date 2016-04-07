@@ -11,3 +11,8 @@ c:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Model\bi
 c:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Model\bin\Debug\Spire.XLS.xml
 c:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Model\bin\Debug\Spire.Pdf.xml
 c:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Model\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\Model\bin\Debug\Model.dll.config
+C:\Users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\Model\bin\Debug\SpreadsheetLight.dll
+C:\Users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\Model\bin\Debug\SpreadsheetLight.xml
+C:\Users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\Model\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\Model\bin\Debug\DocumentFormat.OpenXml.xml

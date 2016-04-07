@@ -11,3 +11,8 @@ C:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Reader\b
 C:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Reader\bin\Debug\Spire.XLS.xml
 C:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Reader\obj\Debug\ExcelReader2.dll
 C:\Users\valerypyzhik\Documents\Visual Studio 2015\Projects\ExcelReader\Reader\obj\Debug\ExcelReader2.pdb
+C:\Users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\Reader\bin\Debug\ExcelReader2.dll.config
+C:\Users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\Reader\bin\Debug\SpreadsheetLight.dll
+C:\Users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\Reader\bin\Debug\SpreadsheetLight.xml
+C:\Users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\Reader\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\valerypyzhik\documents\visual studio 2015\Projects\ExcelReader\Reader\bin\Debug\DocumentFormat.OpenXml.xml

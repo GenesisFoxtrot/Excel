@@ -10,7 +10,7 @@ using System.Linq.Expressions;
 
 namespace ExcelReader2
 {
-    public class Reader
+    public class Reader : IReader
     {
         public List<T> Read<T>(string filePath) where T : new()
         {
